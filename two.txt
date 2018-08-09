@@ -1,1 +1,2 @@
 什么是Git?
+Creating a new branch is quick
